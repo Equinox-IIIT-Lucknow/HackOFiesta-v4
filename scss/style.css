@@ -170,3 +170,28 @@ THEME PAGE
     height: 30vh;
   }
 }
+.prize-lottie{
+  display: block;
+  transform: translateY(-100px);
+}
+.prize{
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  box-shadow: 0 1.4rem 3rem rgba(160, 160, 160, 0.3);
+}
+.prize-content{
+  display: block;
+  transform: translateY(-50px);
+}
+.blast{
+  position: absolute;
+}
+.blastright{
+  position: absolute;
+  right: 300px;
+}
+.blastleft{
+  position: absolute;
+  left: 80px;
+}
